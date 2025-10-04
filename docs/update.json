@@ -1,0 +1,17 @@
+{
+  "latest": {
+    "version": "0.0.1",
+    "channel": "stable",
+    "publishedAt": "2025-10-05T12:00:00Z",
+    "notes": [
+      "Initial test of update manifest"
+    ],
+    "installer": {
+      "url": "https://example.com/join2esir/Join2Esir_0.0.1_Setup.exe",
+      "size": 0,
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  },
+  "minimumSupported": "0.0.1",
+  "channels": ["stable"]
+}
