@@ -1,20 +1,20 @@
 {
   "latest": {
-    "version": "0.0.1",
+    "version": "1.0.1",
     "channel": "stable",
     "publishedAt": "2025-10-05T12:00:00Z",
     "notes": ["Initial test of update manifest"],
     "installer": {
-      "url": "https://github.com/zeljkoh/join2esir-ops/releases/download/v0.0.1/Join2Esir_0.0.1_Setup.exe",
+      "url": "https://github.com/zeljkoh/join2esir-ops/releases/download/v0.0.2/Join2Esir_0.0.1_Setup.exe",
       "size": 5632,
       "sha256": "b51acdba214609762839ed3539edd492328bc019e2560e52ea1ccd7fe4025599"
     }
   },
 
-  "version": "0.0.1",
+  "version": "1.0.1",
   "channel": "stable",
   "publishedAt": "2025-10-05T12:00:00Z",
-  "link": "https://github.com/zeljkoh/join2esir-ops/releases/download/v0.0.1/Join2Esir_0.0.1_Setup.exe",
+  "link": "https://github.com/zeljkoh/join2esir-ops/releases/download/v0.0.2/Join2Esir_0.0.1_Setup.exe",
   "size": 5632,
   "sha256": "b51acdba214609762839ed3539edd492328bc019e2560e52ea1ccd7fe4025599",
 
